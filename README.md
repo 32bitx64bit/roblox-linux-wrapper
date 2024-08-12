@@ -1,4 +1,5 @@
-# Roblox is no longer supported on Wine.
+# Roblox now works via Sober, which brings a Native client to linux.
+https://sober.vinegarhq.org/
 Consider using Waydroid & install the Android version of Roblox. I will no longer be maintaining Roblox Linux Wrapper.
 I recommend the [vinegar](https://github.com/vinegarhq/vinegar) project as a "successor" to this one.
 
